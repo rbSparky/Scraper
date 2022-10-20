@@ -1,8 +1,10 @@
-## Web Scraper Utility
+# Web Scraper Utility
 
 Hosted on [replit](https://Web-Scraper-Utility.rbsparky.repl.co), [with code](https://replit.com/@rbSparky/Web-Scraper-Utility). Made with Flask, Jinja2 & Bootstrap.
+<br/><br/>
 
 
+## Features
 ### Extracting lists, tabular and data from all html tags
 - All data is collected and stored in a JSON file.
 
