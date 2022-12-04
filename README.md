@@ -8,6 +8,8 @@ Hosted on [replit](https://Web-Scraper-Utility.rbsparky.repl.co), [with code](ht
 ### Extracting lists, tabular and data from all html tags
 - All data is collected and stored in a JSON file.
 
+### Search result summarizer with NLP 
+
 
 ### Generating sitemap
 - Ability to scrape the site till a certain depth to get the entire site architecture of any website.
@@ -15,7 +17,7 @@ Hosted on [replit](https://Web-Scraper-Utility.rbsparky.repl.co), [with code](ht
 
 ### Improvements to be made
 TBD: 
-- Search result summarizer with NLP 
+
 - Image scraping 
 - Batch Image Downloading 
 - JSON Download Feature
